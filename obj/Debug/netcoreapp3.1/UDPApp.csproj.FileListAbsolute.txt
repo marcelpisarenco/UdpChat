@@ -1,0 +1,16 @@
+D:\University\Semestru 6\PR\Lab5\UDPApp\bin\Debug\netcoreapp3.1\UDPApp.exe
+D:\University\Semestru 6\PR\Lab5\UDPApp\bin\Debug\netcoreapp3.1\UDPApp.deps.json
+D:\University\Semestru 6\PR\Lab5\UDPApp\bin\Debug\netcoreapp3.1\UDPApp.runtimeconfig.json
+D:\University\Semestru 6\PR\Lab5\UDPApp\bin\Debug\netcoreapp3.1\UDPApp.runtimeconfig.dev.json
+D:\University\Semestru 6\PR\Lab5\UDPApp\bin\Debug\netcoreapp3.1\UDPApp.dll
+D:\University\Semestru 6\PR\Lab5\UDPApp\bin\Debug\netcoreapp3.1\UDPApp.pdb
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.csprojAssemblyReference.cache
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.ChatForm.resources
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.LoginForm.resources
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.csproj.GenerateResource.cache
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.AssemblyInfoInputs.cache
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.AssemblyInfo.cs
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.csproj.CoreCompileInputs.cache
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.dll
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.pdb
+D:\University\Semestru 6\PR\Lab5\UDPApp\obj\Debug\netcoreapp3.1\UDPApp.genruntimeconfig.cache
